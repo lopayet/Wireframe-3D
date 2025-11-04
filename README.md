@@ -1,6 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1183018674735562846/1186347159377952878/earth1.png?ex=6592eae4&is=658075e4&hm=a9f1b5d3b01d091739f51387deb3854ce356124cc93d2543f3a1cfa8715425d0&">
-<img src="https://cdn.discordapp.com/attachments/1183018674735562846/1186347158891397200/earth2.png?ex=6592eae3&is=658075e3&hm=033c32938db5b0482cb20090307f19480876ec8da27c1dd7325c32961c3c1c7f&">
-Julia set:
-<img src="https://cdn.discordapp.com/attachments/1183018674735562846/1186347158010601572/juliaset.png?ex=6592eae3&is=658075e3&hm=5137f4ae57c3a3ef62bb207992c75b0bed10917747efff5e5de5c8e9f9772bfc&">
-Another fractal:
-<img src="https://cdn.discordapp.com/attachments/1183018674735562846/1186347158413262898/farctalfdf.png?ex=6592eae3&is=658075e3&hm=3453288c6d012e04b8ca591a0e6bd0bdb7743eae1e95971d5140890f566af0c1&">
+<img src="https://files.catbox.moe/mou40d.png">
+<img src="https://files.catbox.moe/g4zfv8.png">
+<img src="https://files.catbox.moe/m9dxpt.png">
+<img src="https://files.catbox.moe/dit77d.png">
